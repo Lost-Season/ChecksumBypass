@@ -1,1 +1,21 @@
-
+## 贴图、模型和导入外部obj文件使用方法
+1) 点击模型管理(如果没有显示按F7)
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图零.png)
+2) 如果出现下面问题把窗口拉宽
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图一.png)
+3) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图二.png)
+4) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图三.png)
+5) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图四.png)
+6) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图五.png)
+7) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图六.png)
+8) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图七.png)
+9) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图八.png)
+10) 
+![](https://github.com/Lost-Season/ChecksumBypass/blob/main/扩展/贴图、模型和导入外部obj文件/图九.png)
