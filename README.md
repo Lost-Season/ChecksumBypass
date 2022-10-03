@@ -11,7 +11,9 @@
 4) 打开`run.bat`，中途可能需要按`Enter`键
 5) 等待游戏窗口打开
 6) `F11`打开`emo changer`，`F12`打开`model changer`
-7) 随后就可以开心地使用`melonloader`开始游戏了
+7) 随后就可以开心地使用`melonloader`开始游戏了5
+
+注：若想使用国服，请将`run.bat`里的`GenshinImpact.exe`g改为`yuanshen.exe`
 
 ## 升级到更高版本
 
